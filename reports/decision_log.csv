@@ -1,0 +1,2 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T12:36:35+00:00,t08,HOLD,HOLD,EXCEPTIONS_PENDING_REVIEW,Found 16 exceptions requiring human DPO review before final purge,Nguyễn Thiên Phúc,out\poc\actions.csv;out\poc\audit_log.jsonl
